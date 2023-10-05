@@ -17,5 +17,4 @@
 
 1. If you want create splash use 
 
-- ``AI``[Click](https://app.leonardo.ai)
-- ``AI``[Click](https://app.leonardo.ai)
+- ``lottiefiles``[Click](https://lottiefiles.com/)
