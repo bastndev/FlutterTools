@@ -7,14 +7,15 @@
 <!-- - --- --- --- Create Icon -- --- --- ---  -->
 ## Flutter Tools ⚙️
 **🐥 Icon**
-1. Create Icon with AI
+1. Create Icon with AI and edit
 
-- ``Leonardo.ai``[Click](https://app.leonardo.ai)
-- ``AI``[Click](https://icon.kitchen/)
+- ``Leonardo.ai``[AI](https://app.leonardo.ai)
+- ``IconKitchen``[Edit](https://icon.kitchen/)
 
 <!-- - --- --- --- Create Splash Screen -- --- --- ---  -->
 **🐲 Splash Screen**
 
-1. If you want create splash use 
+1. Ways to create a splash screen
 
 - ``lottiefiles``[Click](https://lottiefiles.com/)
+-
