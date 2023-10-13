@@ -13,12 +13,8 @@
 - ``IconKitchen``[Edit ✄](https://icon.kitchen/)
 
 <!-- - --- --- --- Create Splash Screen -- --- --- ---  -->
-**🐲 Splash Screen**
+**🎴 Splash Screen**
 
-1. Ways to create a splash screen
+2. Create a custom splash screen
 
-- ``flutter_native_splash`` [Click](https://pub.dev/packages/flutter_native_splash)
-``flutter pub run flutter_native_splash:create --path=splash.yaml``
-
-
-- ``lottiefiles``[Click](https://lottiefiles.com/)
+> Copy and page in:
