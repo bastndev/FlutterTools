@@ -8,9 +8,11 @@
 ## Flutter Tools ⚙️
 **🟩 Icon**
 1. Create Icon with AI and edit
-- ``deepai.org``[⠮ AI ⠵](https://deepai.org/machine-learning-model/cute-creature-generator)
-- ``Leonardo.ai``[⠮ AI ⠵](https://app.leonardo.ai)
-- ``IconKitchen``[Edit ✄](https://icon.kitchen/)
+>deepai.org: [⠮ AI ⠵](https://deepai.org/machine-learning-model/cute-creature-generator)
+
+>Leonardo.ai: [⠮ AI ⠵](https://app.leonardo.ai)
+
+>IconKitchen: [ Edit ✄](https://icon.kitchen/)
 
 <!-- - --- --- --- Create Splash Screen -- --- --- ---  -->
 **🎴 Splash Screen**
