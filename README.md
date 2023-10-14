@@ -19,7 +19,7 @@
 
 2. Create a custom splash screen
 
->- Installing: ``flutter pub add lottie``
+>- Installing in terminal: ``flutter pub add lottie``
 >- Active in pubspec: ``assets:``
 
 3. Code of splash Screen animation
@@ -66,3 +66,10 @@ class SplashScreenState extends State<SplashScreen> {
   }
 }
 ````
+
+**📚 Tips and recommendation**
+
+>- It is advisable to export in Json and that it does not weigh more than 200/kb
+>- Place the image or Json in assets, do not place it in another subfolder later
+
+>- Tutorial:
