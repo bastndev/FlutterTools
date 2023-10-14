@@ -16,7 +16,7 @@
 
 <!-- - --- --- --- Create Splash Screen -- --- --- ---  -->
 **🎴 Splash Screen**
-1. Generate IMG o Animation Json
+1. Generate IMG or Animation Json
   >- Figma
   >- Lottie
 
