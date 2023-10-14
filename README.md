@@ -16,6 +16,9 @@
 
 <!-- - --- --- --- Create Splash Screen -- --- --- ---  -->
 **🎴 Splash Screen**
+1. Generate IMG o Animation Json
+  >- Figma
+  >- Lottie
 
 2. Create a custom splash screen
 
@@ -66,6 +69,11 @@ class SplashScreenState extends State<SplashScreen> {
   }
 }
 ````
+**Plus +**
+>- Swap color start background (change for black o other color): ``\splash_screen\android\app\src\main\res\drawable``
+``<item android:drawable="@android:color/black" />``
+
+>- Swap color start background: ``\splash_screen\android\app\src\main\res\drawable-v21``
 
 **📚 Tips and recommendation**
 
