@@ -79,4 +79,4 @@ class SplashScreenState extends State<SplashScreen> {
 >- It is advisable to export in Json and that it does not weigh more than 200/kb
 >- Place the image or Json in assets, do not place it in another subfolder later
 
->- Tutorial:
+>- Tutorial: https://youtu.be/NfEbacIEtWY
